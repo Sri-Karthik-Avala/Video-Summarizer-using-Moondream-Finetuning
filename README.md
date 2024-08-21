@@ -1,4 +1,3 @@
-Here’s an updated version of the README file reflecting the new changes to the project and incorporating the integration of Whisper for audio transcription along with Moondream2 for video analysis:
 
 ---
 
